@@ -2,7 +2,7 @@
 Website
 
 This website is built using HTML,CSS,BOOTSTRAP AND JAVASCRIPT ,to show the basic CRUD operations on the local storage of browser,where you can add,delete and edit your notes.
-
+GitHub hosted link: https://nkeerti.github.io/ToDo-list/
 # create note
 ![Screenshot (1208)](https://user-images.githubusercontent.com/98823131/180636215-01700d26-e560-49af-a624-d737ee8f41cd.png)
 
